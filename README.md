@@ -91,6 +91,18 @@ The 'tsconfig.json' file in a Node.js project is used to set up TypeScript compi
 
 ### Jawaban Soal 3
 
-Bukti modifikasi file page.tsx
+Proof of page.tsx file modification
 
 ![Screenshot](assets-report/1.png)
+
+### Jawaban Soal 4
+
+![Screenshot](assets-report/2.png)
+
+### Jawaban Soal 5
+
+![Screenshot](assets-report/3.png)
+
+### Jawaban Soal 6
+
+![Screenshot](assets-report/4.png)
